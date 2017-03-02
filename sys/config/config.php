@@ -13,15 +13,10 @@
 */
 
 
-// CONFIGURE DB ACCESS
-// $dbhost = 'cohocalendar.db.10150044.hostedresource.com';
-// $dbuser = 'cohocalendar';
-// $dbpass = 'Bcca20!3';
-// $database = 'cohocalendar';
 $dbhost = 'localhost';
-$dbuser = 'root';
-$dbpass = 'Seh0531';
-$database = 'cob';
+$dbuser = '<user>';
+$dbpass = '<password>';
+$database = '<database';
 
 // END OF CONFIGURATION. NOTHING NEEDS TO BE DONE BEYOND THIS POINT.
 
